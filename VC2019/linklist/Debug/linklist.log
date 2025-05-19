@@ -1,0 +1,3 @@
+﻿  LL.c
+D:\ODED\ProjectsTry\LINKLIST\SRC\LL.c(77,6): warning C4101: 'i': unreferenced local variable
+  linklist.vcxproj -> D:\ODED\ProjectsTry\LINKLIST\VC2019\linklist\Debug\linklist.exe

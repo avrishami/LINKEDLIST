@@ -1,0 +1,10 @@
+{
+    "m68k.includePaths": [
+        "c:\\Users\\USER\\.vscode\\extensions\\davidcanadasmazo.amiga-debug-arch-1.6.8\\bin\\win32\\opt\\m68k-amiga-elf\\sys-include"
+    ],
+    "m68k.vasm.provideDiagnostics": false,
+    "files.associations": {
+        "*.c": "c",
+        "malloc.h": "c"
+    }
+}
