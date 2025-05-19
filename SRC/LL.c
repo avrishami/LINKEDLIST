@@ -104,8 +104,6 @@ int main(void)
 				break;
 
 		}
-
-
 	}
 	getchar();
 	return 0;
